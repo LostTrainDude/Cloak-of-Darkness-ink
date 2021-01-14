@@ -4,3 +4,5 @@ Implementation of the classic Interactive Fiction "template", written in [ink, a
 Written so to make use of variables, conditions, gathers, sequences, fallback choices and choices with suppressed text.
 
 More info about the Cloak of Darkness are available on [Roger Firth's page about it](http://www.firthworks.com/roger/cloak/)
+
+An online playable version of this story [is also available](http://jeejah.xyz/quill/play/1y4jvxbtcwt)
